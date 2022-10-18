@@ -1,0 +1,78 @@
+{
+  "spamtypes": [
+    {
+      "display": "Block Lowballing",
+      "contains": [
+        "lowballing",
+        "lowballer",
+        "lowbal",
+        "lowwbal"
+      ],
+      "word": [
+        "low balling",
+        "loballing"
+      ]
+    },
+    {
+      "description": "Block Buy Offers",
+      "word": [
+        "buying",
+        "i buy"
+      ]
+    },
+    {
+      "display": "Block Sell Offers",
+      "contains": [
+        "check my ah",
+        "on my ah"
+      ],
+      "word": [
+        "sell",
+        "selling",
+        "sellng",
+        "sellomg",
+        "seling",
+        "my ah",
+        "my ahh",
+        "low price",
+        "bid on",
+        "to buy",
+        "my /ah",
+        "i buy",
+        "check out my auction",
+        "on /ah",
+        "buy quickly for",
+        "buy my auction",
+        "on ah"
+      ]
+    },
+    {
+      "display": "Block Quitters",
+      "word": [
+        "quitting skyblock"
+      ]
+    },
+    {
+      "display": "Block Farm Builders.",
+      "word": [
+        "building your farms",
+        "building farms"
+      ]
+    },
+    {
+      "description": "Block Beggars.",
+      "contains": [
+        "at map"
+      ],
+      "word": [
+        "upgrade my",
+        "fund me",
+        "donate me",
+        "can someone give me",
+        "got scammed",
+        "dirt to hyp",
+        "give me plz"
+      ]
+    }
+  ]
+}
