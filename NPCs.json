@@ -34,7 +34,7 @@
     "Smithmonger",
     "Weaponsmith"
   ],
-  "ends": [
+  "endsWith": [
     " Merchant",
     " Forger"
   ]
