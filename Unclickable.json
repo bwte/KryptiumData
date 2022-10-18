@@ -1,0 +1,134 @@
+{
+  "hide_npc_sell": {
+    "equals": [
+      "Healing VIII Splash Potion",
+      "Revive Stone",
+      "Premium Flesh",
+      "Defuse Kit",
+      "Enchanted Wool",
+      "Training Weights",
+      "Journal Entry",
+      "Twilight Arrow Poison",
+      "Toxic Arrow Poison",
+      "Fairy's Galoshes",
+      "Fairy's Trousers",
+      "Fairy's Fedora",
+      "Fairy's Polo",
+      "Blaze Powder",
+      "Corrupted Fragment",
+      "Tripwire Hook",
+      "White Wool",
+      "Match-Sticks",
+      "Netherrack-Looking Sunshade",
+      "Goblin Helmet",
+      "Goblin Chestplate",
+      "Goblin Leggings",
+      "Goblin Boots",
+      "Ancient Claw",
+      "Wishing Compass",
+      "Sea Lantern",
+      "Superboom TNT",
+      "Golden Apple",
+      "Enchanted Golden Apple"
+    ],
+    "startsWith": [
+      "Music Disc"
+    ],
+    "endsWith": [
+      " Rune I"
+    ]
+  },
+  "hide_in_storage": {
+    "equals": [
+      "Nether Wart Pouch",
+      "Basket of Seeds",
+      "Builder's Wand"
+    ],
+    "startsWith": [],
+    "endsWith": [
+      "New Year Cake Bag"
+    ]
+  },
+  "salvage": {
+    "armor": [
+      "Zombie Knight",
+      "Heavy",
+      "Zombie Soldier",
+      "Skeleton Grunt",
+      "Skeleton Soldier",
+      "Zombie Commander",
+      "Skeleton Master",
+      "Sniper",
+      "Skeletor",
+      "Rotten",
+      "Flaming",
+      "Moogma",
+      "Rampart",
+      "Bouncy",
+      "Skeleton Lord"
+    ],
+    "items": [
+      "Zombie Soldier Cutlass",
+      "Silent Death",
+      "Zombie Knight Sword",
+      "Conjuring",
+      "Dreadlord Sword",
+      "Soulstealer Bow",
+      "Machine Gun Bow",
+      "Earth Shard",
+      "Zombie Commander Whip",
+      "Sniper Bow",
+      "Blade of the Volcano",
+      "Staff of the Volcano",
+      "Taurus Helmet",
+      "Slug Boots",
+      "Magma Rod"
+    ]
+  },
+  "hide_player_trade": {
+    "equals": [
+      "Builder's Wand"
+    ],
+    "startsWith": [],
+    "endsWith": [
+      "Day Crystal",
+      "Night Crystal",
+      "Cat Talisman",
+      "Lynx Talisman",
+      "Cheetah Talisman"
+    ],
+    "contains": [
+      "Personal Deletor "
+    ]
+  },
+  "not_auctionable": {
+    "equals": [
+      "Hoe of Great Tilling",
+      "Hoe of Greater Tilling",
+      "Prismapump",
+      "Mathematical Hoe Blueprint",
+      "Basket of Seeds",
+      "Nether Wart Pouch",
+      "InfiniDirt™ Wand"
+    ],
+    "startsWith": [],
+    "endsWith": [
+      "Day Crystal",
+      "Night Crystal",
+      "Cat Talisman",
+      "Lynx Talisman",
+      "Cheetah Talisman",
+      " Carrot Hoe",
+      " Sugar Cane Hoe",
+      " Nether Warts Hoe",
+      " Potato Hoe",
+      "Melon Dicer",
+      "Pumpkin Dicer",
+      " Coco Chopper",
+      " Wheat Hoe"
+    ],
+    "contains": [
+      "Personal Deletor "
+    ]
+  }
+}
