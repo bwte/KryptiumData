@@ -1,6 +1,6 @@
 {
   "main": {
-    "hub": {
+    "Hub": {
       "images": {
         "255": {
           "low": {
@@ -486,7 +486,7 @@
         }
       ]
     },
-    "combat_1": {
+    "Spider's Den": {
       "images": {
         "255": {
           "low": {
@@ -595,7 +595,7 @@
         }
       ]
     },
-    "foraging_1": {
+    "The Park": {
       "images": {
         "255": {
           "low": {
@@ -736,7 +736,7 @@
         }
       ]
     },
-    "farming_1": {
+    "The Farming Islands": {
       "images": {
         "255": {
           "low": {
@@ -904,7 +904,7 @@
         }
       ]
     },
-    "crimson_isle": {
+    "Crimson Isle": {
       "images": {
         "255": {
           "low": {
@@ -1541,7 +1541,7 @@
         }
       ]
     },
-    "combat_3": {
+    "The End": {
       "images": {
         "255": {
           "low": {
@@ -1628,7 +1628,7 @@
         }
       ]
     },
-    "mining_1": {
+    "Gold Mine": {
       "images": {
         "255": {
           "low": {
@@ -1714,7 +1714,7 @@
         }
       ]
     },
-    "mining_2": {
+    "Deep Caverns": {
       "images": {
         "20": {
           "low": {
@@ -1878,7 +1878,7 @@
       ]
     }
   },
-  "jerry_workshop": {
+  "Jerry's Workshop": {
     "winter": {
       "images": {
         "255": {
